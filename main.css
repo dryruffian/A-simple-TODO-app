@@ -38,6 +38,10 @@ header {
     border-radius: 5px;
 }
 
+#new-task-submit:hover {
+    background-color: #de541e;
+}
+
 main {
     text-align: center;
     padding: 20px;    /* Optional: Add some padding for better visual appearance */
