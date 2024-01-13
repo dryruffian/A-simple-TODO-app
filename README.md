@@ -1,6 +1,6 @@
 <h1>A Simple TODO app</h1>
 
- This is a project every Web Devloper have to go through at some point of time i am using it as a way to keep in check y skill I will update this project with new tech a i learn them
+ This is a project every Web Devloper have to go through at some point of time i am using it as a way to keep in check my skill I will update this project with new tech a i learn them
 
  <h3> The first one </h3>
 
