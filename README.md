@@ -12,4 +12,4 @@ This the initial project i have made using vainila HTML and JS (not even CSS)
 
 ![image](https://github.com/dryruffian/A-simple-TODO-app/assets/88555779/a58cc1ce-58d5-43e9-8bbf-0896dc5de567)
 
-just added more styling nothing more complex used a color pallet to style it
+just added more styling nothing more complex just used a color pallet to style it
